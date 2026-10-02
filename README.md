@@ -1,4 +1,4 @@
-## Olá, meu nome é César Kauan, tenho 22 anos e estou atualmente no 5º período da faculdade de Analise e desenvolvimento de sistemas. Este é um resumo do meu percurso até o momento.
+## Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 5º período, construindo minha experiência em desenvolvimento de software através de projetos acadêmicos e pessoais.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" />
 <div align="center">  
